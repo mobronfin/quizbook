@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "quizbook"
+    }
+  },
+  "defaultProject": "quizbook",
+  "cli": {
+    "analytics": false
+  }
 }
